@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="sqlalchemy" />
+          <option value="mysql-connector-python" />
+          <option value="python-dotenv" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="dashscope" />
+          <option value="neo4j" />
+          <option value="python-docx" />
+          <option value="PyPDF2" />
+          <option value="pandas" />
+          <option value="openpyxl" />
+          <option value="tqdm" />
+          <option value="cpca" />
+          <option value="python-multipart" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

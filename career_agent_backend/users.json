@@ -1,0 +1,122 @@
+[
+  {
+    "username": "董俊毅",
+    "password": "$2b$12$Kp80fZE.kAfJcOd3gAVZPerTSSBUELjlEXLRC/Aquf9CeK0eak1ii",
+    "role": "student",
+    "student_id": 9,
+    "id": 1,
+    "created_at": "2026-04-05 15:44:21",
+    "updated_at": "2026-04-08 13:26:16",
+    "email": "pythonnice123@aliyun.com"
+  },
+  {
+    "username": "nice",
+    "password": "$2b$12$eXpGzEfb1bG5TJOF44zgSuX80VBg1xDpXDNRW..2NVLpdBCwmTXba",
+    "role": "student",
+    "student_id": 10,
+    "id": 2,
+    "created_at": "2026-04-05 21:13:00",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "testuser",
+    "password": "$2b$12$uQTZLMoGGIIEbxn.Nu8eReHndhRbpcjMOlQi2CqK8pyL5tzmOSaDq",
+    "role": "student",
+    "student_id": 11,
+    "id": 3,
+    "created_at": "2026-04-05 21:14:56",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "ljx",
+    "password": "$2b$12$.CH6PTbZUW9od/qk9oISvu3SGPfnsWkcdr26.7HmkHVq/T.NWxtLS",
+    "role": "student",
+    "student_id": 12,
+    "id": 4,
+    "created_at": "2026-04-06 18:14:52",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "1",
+    "password": "$2b$12$cQXc7dPlZl/7pDQoVeTsn.bYE1JP4enYPTscz8Vx0Ij1D3yVsjV4S",
+    "role": "student",
+    "student_id": 13,
+    "id": 5,
+    "created_at": "2026-04-07 21:07:34",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "Leojingxuan",
+    "password": "$2b$12$vlYlV0eJ7txakYKcbB97wueZA6.lnPkYhqnY4kPoOGTxkLnkoIcpm",
+    "role": "student",
+    "student_id": 14,
+    "id": 6,
+    "created_at": "2026-04-07 21:08:47",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "3",
+    "password": "$2b$12$nXdrE4uwMWAMByNGy1s9Fe19Q0UMSA346rfru8iY6m4p4cz3L1fgK",
+    "role": "student",
+    "student_id": 15,
+    "id": 7,
+    "created_at": "2026-04-07 21:54:58",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "123",
+    "password": "$2b$12$VcggApz0cae4GcCNn0Pdd.veWNDmtVSnBXUMN2FbuJEUUOSDpMkNy",
+    "role": "student",
+    "student_id": 16,
+    "id": 8,
+    "created_at": "2026-04-07 21:57:12",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "Leojingxuan1",
+    "password": "$2b$12$OxbUAqSM.nOa10iJOG.9HuWpwlhdikY.ts2WUN878Z7/YAObBx3UG",
+    "role": "student",
+    "student_id": 17,
+    "id": 9,
+    "created_at": "2026-04-07 22:52:23",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "ccc",
+    "password": "$2b$12$gmmq298WZVxEH8snXWJ7quZHj6DaJDSAx7CipH9VWq42GRGGshVOO",
+    "role": "student",
+    "student_id": 18,
+    "id": 10,
+    "created_at": "2026-04-07 22:53:41",
+    "updated_at": null,
+    "email": null
+  },
+  {
+    "username": "ddd",
+    "password": "$2b$12$TteJcfj3TM.Zz9piHCiYN.6O.ET5oiPMIYbv22nmoH5uyc208.rFO",
+    "role": "student",
+    "student_id": 19,
+    "id": 11,
+    "created_at": "2026-04-07 22:56:09",
+    "updated_at": "2026-04-07 22:56:43",
+    "email": "ddd"
+  },
+  {
+    "username": "test2",
+    "password": "$2b$12$pDptA4du8X4dJ51odxnHqOIN0YcVFiOfymJn4DsV3GY5pemnG8j3S",
+    "role": "student",
+    "student_id": 20,
+    "id": 12,
+    "created_at": "2026-04-08 21:14:03",
+    "updated_at": null,
+    "email": "test@qq.com"
+  }
+]

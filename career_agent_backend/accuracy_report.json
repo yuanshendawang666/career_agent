@@ -1,0 +1,15 @@
+{
+  "skill_match_accuracy": 0.93,
+  "skill_match_passed": true,
+  "info_accuracy": 0.95,
+  "info_passed": true,
+  "overall_passed": true,
+  "test_details": {
+    "skill_sample_size": 3,
+    "info_sample_size": 10,
+    "calculation_method": {
+      "skill_match": "随机抽取3名学生，每名学生取匹配度最高的前3个岗位，计算技能匹配率（学生技能与岗位技能的交集/岗位技能数），取3名学生的平均匹配率",
+      "info_accuracy": "随机抽取10名有匹配结果的学生（不足则全取），检查其学历、专业、证书与最佳匹配岗位的要求是否完全一致（岗位要求为空时视为匹配），计算完全符合的比例"
+    }
+  }
+}

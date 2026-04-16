@@ -1,0 +1,98 @@
+[
+  {
+    "name": "董俊毅",
+    "resume_text": "个⼈简历\n基本信息\n姓名：陈浩\u0001 \u0001|\u0001\u0001性别：男\u0001 \u0001|\u0001\u0001年龄：2 5岁\n联系电话：1 39XXXX7890\u0001\u0001|\u0001\u0001电⼦邮箱： chenhao@email.com\n求职意向：软件⼯程师\u0001 \u0001|\u0001\u0001期望薪资：8 000-12000元/⽉\u0001\u0001|\u0001\u0001期望城市：成都\n教育背景\n2020.09\u0001-\u00012024.06\u0001\u0001成都信息⼯程⼤学\u0001 \u0001计算机科学与技术专业\u0001 \u0001本科\u0001 \u0001GPA：3.7/4.0（专业前1 0%）\n核⼼课程：J ava编程、P ython开发、数据库原理、计算机⽹络、数据结构与算法、W eb前端开发（均\n为90分以上）\n荣誉奖项：2 021-2022学年国家励志奖学⾦、2 022-2023学年校级优秀学⽣、2 023年省级⼤学⽣计算\n机设计⼤赛⼆等奖\n⼯作/实习经历\n2023.07\u0001-\u00012024.02\u0001\u0001成都X X信息技术有限公司\u0001 \u0001软件开发实习⽣\n1.\u0001参与公司后台管理系统开发，使⽤J ava语⾔结合S pringBoot框架，完成⽤⼾登录、权限分配等核⼼\n模块的编码与调试，提升系统响应速度约1 5%；\n2.\u0001协助开发团队进⾏数据库优化，编写S QL查询语句，优化数据查询效率，减少冗余数据，降低系统\n卡顿概率；\n3.\u0001参与前端⻚⾯调试与修改，使⽤H TML、CSS、JavaScript配合V ue框架，修复⻚⾯兼容性问题1 0余\n处，提升⽤⼾体验；\n4.\u0001配合测试⼈员完成系统测试，记录并修改b ug30余个，参与撰写技术⽂档，保障项⽬按时上线。\n2022.09\u0001-\u00012023.06\u0001\u0001学校计算机协会\u0001 \u0001技术部部⻓\n1.\u0001统筹协会技术培训⼯作，制定P ython、Java基础培训计划，组织开展培训活动1 2场，覆盖学⽣2 00\n余⼈，提升学员编程基础能⼒；\n2.\u0001带领团队完成校园成绩查询⼩程序开发，负责后端逻辑编写与数据库搭建，⼩程序上线后累计使⽤\n⼈数达1 500+；\n3.\u0001负责维护校园计算机实验室设备，排查软件、硬件故障，解决师⽣电脑使⽤问题8 0余起，保障实验\n室正常运⾏；\n4.\u0001组织校园编程竞赛，负责竞赛题⽬设计、技术⽀持与评审⼯作，提升校园编程氛围。\n专业技能（注：⽂档部分内容可能由\u0001 AI\u0001⽣成）1.\u0001编程技能：熟练掌握J ava、Python编程语⾔，熟悉S pringBoot、MyBatis框架，能独⽴完成简单项\n⽬的开发与调试；\n2.\u0001前端技能：掌握H TML、CSS、JavaScript基础，熟悉V ue框架，能完成基础前端⻚⾯开发与调试；\n3.\u0001数据库技能：熟悉M ySQL数据库，能熟练编写S QL语句，掌握数据库设计与优化基础⽅法；\n4.\u0001其他能⼒：具备较强的逻辑思维能⼒和问题解决能⼒，熟悉G it版本控制⼯具，善于团队协作，能快\n速学习新技术，适应项⽬需求。\n项⽬经验\n2023.03\u0001-\u00012023.06\u0001\u0001校园图书管理系统\u0001 \u0001项⽬负责⼈\n1.\u0001负责项⽬需求分析与架构设计，制定项⽬开发计划，协调5 ⼈开发团队完成项⽬开发；\n2.\u0001负责后端核⼼模块开发，实现图书查询、借阅、归还、库存管理等功能，确保系统稳定运⾏；\n3.\u0001对接校园图书馆，收集需求反馈，优化系统功能，最终完成项⽬交付，获得学校相关部⻔认可。\n⾃我评价\n具备扎实的计算机专业知识，掌握J ava、Python等核⼼编程技能，拥有丰富的项⽬开发和实习经验，\n熟悉软件开发流程。逻辑思维清晰，善于分析和解决技术问题，具备较强的学习能⼒和执⾏⼒，能快\n速掌握新技术并应⽤于实际项⽬。性格沉稳严谨，善于团队协作，对待⼯作认真负责，注重代码规范\n和项⽬质量，愿意持续深耕技术领域，为公司的技术发展贡献⼒量。",
+    "profile_json": "{\"age\": \"18\", \"email\": \"pythonnice123@aliyun.com\", \"major\": \"计算机科学与技术\", \"phone\": \"18069197385\", \"skills\": [\"吃屎\"], \"language\": \"英语（未提及具体证书）\", \"education\": \"\", \"interests\": [\"拉屎\"], \"strengths\": [\"吃屎\"], \"target_job\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [{\"name\": \"成都XX信息技术有限公司 软件开发实习生\", \"role\": \"\", \"description\": \"\", \"technologies\": []}], \"competitions\": []}, \"internships\": [\"成都XX信息技术有限公司 软件开发实习生\"], \"certificates\": [], \"stress_score\": 4, \"manual_basics\": {\"grade\": \"大一\", \"gender\": \"男\", \"school\": \"杭州电子科技大学\", \"intended_city\": \"杭州\"}, \"overall_score\": 90, \"selected_path\": \"科研人员\", \"stress_reason\": \"在实习期间独立完成多个模块开发，并参与系统测试与文档撰写，表现出良好的抗压能力。\", \"learning_score\": 5, \"overall_reason\": \"专业技能扎实，有丰富的项目和实习经验，具备较强的逻辑思维和团队协作能力。\", \"graduation_year\": \"2222\", \"learning_reason\": \"具备快速学习新技术的能力，如掌握Vue框架和数据库优化方法。\", \"work_experience\": \"学校计算机协会 技术部部长\", \"confidence_score\": 95, \"development_plan\": \"**Plan**  \\n- **职业目标**：成功申请攻读计算机科学与技术专业的博士学位，并进入科研机构或高校从事科研工作。  \\n- **学术/技能目标**：  \\n  - 掌握深度学习、自然语言处理等前沿技术，提升算法设计与实现能力；  \\n  - 发表1-2篇高质量的学术论文（如SCI/EI）；  \\n  - 考取相关科研项目申报与管理证书（如国家自然科学基金项目申报培训）。  \\n- **平台/资源**：  \\n  - 参与高校或研究所的科研项目，积累研究经验；  \\n  - 建立与导师、同行学者的联系，拓展学术网络；  \\n  - 利用学术会议、期刊投稿平台（如IEEE、ACM）进行成果展示。\\n\\n---\\n\\n**Do**  \\n- **具体行动1**：系统学习深度学习和自然语言处理相关课程，完成至少两个开源项目并提交至GitHub；  \\n- **具体行动2**：撰写并投稿一篇学术论文，争取在CCF-B类及以上期刊或会议上发表；  \\n- **具体行动3**：每周投入8小时进行科研文献阅读与实验设计，参与至少一次线上或线下学术会议；  \\n- **具体行动4**：联系高校或科研机构的导师，争取参与其科研团队或实习机会，积累科研经验。\\n\\n---\\n\\n**Check**  \\n- **评估周期**：每季度进行一次全面复盘，每月进行一次进度检查。  \\n- **评估指标**：  \\n  - 学术论文投稿与录用情况；  \\n  - 项目完成度与代码质量；  \\n  - 科研文献阅读量与理解深度；  \\n  - 与导师或科研团队的沟通频率与反馈。  \\n- **偏差识别**：  \\n  - 若论文投稿未获回应，分析是否选题不具创新性或写作表达不足；  \\n  - 若项目进度滞后，检查时间管理与任务分配是否合理；  \\n  - 若缺乏科研资源，考虑是否需要扩大社交圈或寻求更多指导。\\n\\n---\\n\\n**Act**  \\n- **备选方案**：  \\n  - 若短期内无法发表高质量论文，可先参与导师课题组的科研项目，积累成果后再尝试独立发表；  \\n  - 若申请博士受阻，可考虑先攻读硕士再继续深造，或转向企业研发岗位积累经验后再次申请博士。  \\n- **资源补充**：  \\n  - 遇到科研瓶颈时，主动向导师或学长请教，参加科研方法论培训；  \\n  - 加入学术社群（如ResearchGate、知乎学术板块），获取最新研究动态与合作机会；  \\n  - 如需提升论文写作能力，可报名参加学术写作课程或请专业编辑协助润色。\", \"innovation_score\": 5, \"confidence_reason\": \"简历内容详实，技能描述清晰，项目经验丰富，展示出较强的职业竞争力。\", \"innovation_reason\": \"参与校园成绩查询小程序开发，担任项目负责人并主导系统设计。\", \"self_introduction\": \"我简直是天才，不仅会吃屎，还能拉屎\", \"other_requirements\": \"\", \"communication_score\": 5, \"industry_background\": \"\", \"communication_reason\": \"担任技术部部长，组织培训、竞赛等活动，展现出优秀的团队协作和沟通能力。\"}",
+    "id": 9,
+    "created_at": "2026-04-05 15:44:21",
+    "updated_at": "2026-04-08 21:12:23"
+  },
+  {
+    "name": "nice",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 10,
+    "created_at": "2026-04-05 21:12:59",
+    "updated_at": null
+  },
+  {
+    "name": "testuser",
+    "resume_text": "个⼈简历\n基本信息\n姓名：陈浩\u0001 \u0001|\u0001\u0001性别：男\u0001 \u0001|\u0001\u0001年龄：2 5岁\n联系电话：1 39XXXX7890\u0001\u0001|\u0001\u0001电⼦邮箱： chenhao@email.com\n求职意向：软件⼯程师\u0001 \u0001|\u0001\u0001期望薪资：8 000-12000元/⽉\u0001\u0001|\u0001\u0001期望城市：成都\n教育背景\n2020.09\u0001-\u00012024.06\u0001\u0001成都信息⼯程⼤学\u0001 \u0001计算机科学与技术专业\u0001 \u0001本科\u0001 \u0001GPA：3.7/4.0（专业前1 0%）\n核⼼课程：J ava编程、P ython开发、数据库原理、计算机⽹络、数据结构与算法、W eb前端开发（均\n为90分以上）\n荣誉奖项：2 021-2022学年国家励志奖学⾦、2 022-2023学年校级优秀学⽣、2 023年省级⼤学⽣计算\n机设计⼤赛⼆等奖\n⼯作/实习经历\n2023.07\u0001-\u00012024.02\u0001\u0001成都X X信息技术有限公司\u0001 \u0001软件开发实习⽣\n1.\u0001参与公司后台管理系统开发，使⽤J ava语⾔结合S pringBoot框架，完成⽤⼾登录、权限分配等核⼼\n模块的编码与调试，提升系统响应速度约1 5%；\n2.\u0001协助开发团队进⾏数据库优化，编写S QL查询语句，优化数据查询效率，减少冗余数据，降低系统\n卡顿概率；\n3.\u0001参与前端⻚⾯调试与修改，使⽤H TML、CSS、JavaScript配合V ue框架，修复⻚⾯兼容性问题1 0余\n处，提升⽤⼾体验；\n4.\u0001配合测试⼈员完成系统测试，记录并修改b ug30余个，参与撰写技术⽂档，保障项⽬按时上线。\n2022.09\u0001-\u00012023.06\u0001\u0001学校计算机协会\u0001 \u0001技术部部⻓\n1.\u0001统筹协会技术培训⼯作，制定P ython、Java基础培训计划，组织开展培训活动1 2场，覆盖学⽣2 00\n余⼈，提升学员编程基础能⼒；\n2.\u0001带领团队完成校园成绩查询⼩程序开发，负责后端逻辑编写与数据库搭建，⼩程序上线后累计使⽤\n⼈数达1 500+；\n3.\u0001负责维护校园计算机实验室设备，排查软件、硬件故障，解决师⽣电脑使⽤问题8 0余起，保障实验\n室正常运⾏；\n4.\u0001组织校园编程竞赛，负责竞赛题⽬设计、技术⽀持与评审⼯作，提升校园编程氛围。\n专业技能（注：⽂档部分内容可能由\u0001 AI\u0001⽣成）1.\u0001编程技能：熟练掌握J ava、Python编程语⾔，熟悉S pringBoot、MyBatis框架，能独⽴完成简单项\n⽬的开发与调试；\n2.\u0001前端技能：掌握H TML、CSS、JavaScript基础，熟悉V ue框架，能完成基础前端⻚⾯开发与调试；\n3.\u0001数据库技能：熟悉M ySQL数据库，能熟练编写S QL语句，掌握数据库设计与优化基础⽅法；\n4.\u0001其他能⼒：具备较强的逻辑思维能⼒和问题解决能⼒，熟悉G it版本控制⼯具，善于团队协作，能快\n速学习新技术，适应项⽬需求。\n项⽬经验\n2023.03\u0001-\u00012023.06\u0001\u0001校园图书管理系统\u0001 \u0001项⽬负责⼈\n1.\u0001负责项⽬需求分析与架构设计，制定项⽬开发计划，协调5 ⼈开发团队完成项⽬开发；\n2.\u0001负责后端核⼼模块开发，实现图书查询、借阅、归还、库存管理等功能，确保系统稳定运⾏；\n3.\u0001对接校园图书馆，收集需求反馈，优化系统功能，最终完成项⽬交付，获得学校相关部⻔认可。\n⾃我评价\n具备扎实的计算机专业知识，掌握J ava、Python等核⼼编程技能，拥有丰富的项⽬开发和实习经验，\n熟悉软件开发流程。逻辑思维清晰，善于分析和解决技术问题，具备较强的学习能⼒和执⾏⼒，能快\n速掌握新技术并应⽤于实际项⽬。性格沉稳严谨，善于团队协作，对待⼯作认真负责，注重代码规范\n和项⽬质量，愿意持续深耕技术领域，为公司的技术发展贡献⼒量。",
+    "profile_json": "{\"major\": \"计算机科学与技术\", \"skills\": [\"Java\", \"Python\", \"SpringBoot\", \"MyBatis\", \"HTML\", \"CSS\", \"JavaScript\", \"Vue\", \"MySQL\", \"Git\"], \"language\": \"英语（未提及具体证书）\", \"education\": \"本科\", \"internships\": [\"成都XX信息技术有限公司 软件开发实习生\"], \"certificates\": [], \"stress_score\": 4, \"overall_score\": 90, \"stress_reason\": \"在实习期间承担多项任务，具备一定抗压能力。\", \"learning_score\": 5, \"overall_reason\": \"技术基础扎实，拥有丰富的项目和实习经验，具备较强的综合能力。\", \"learning_reason\": \"能快速学习新技术并应用于实际项目中。\", \"work_experience\": \"学校计算机协会 技术部部长\", \"confidence_score\": 95, \"innovation_score\": 5, \"confidence_reason\": \"简历内容详实，技能描述清晰，项目经验丰富。\", \"innovation_reason\": \"参与校园成绩查询小程序开发，担任项目负责人并完成图书管理系统开发。\", \"other_requirements\": \"\", \"communication_score\": 5, \"industry_background\": \"\", \"communication_reason\": \"担任技术部部长，组织培训和竞赛，具备良好的沟通与团队协作能力。\"}",
+    "id": 11,
+    "created_at": "2026-04-05 21:14:56",
+    "updated_at": "2026-04-05 21:34:23"
+  },
+  {
+    "name": "ljx",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 12,
+    "created_at": "2026-04-06 18:14:52",
+    "updated_at": null
+  },
+  {
+    "name": "1",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 13,
+    "created_at": "2026-04-07 21:07:34",
+    "updated_at": null
+  },
+  {
+    "name": "Leojingxuan",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 14,
+    "created_at": "2026-04-07 21:08:47",
+    "updated_at": null
+  },
+  {
+    "name": "3",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 15,
+    "created_at": "2026-04-07 21:54:58",
+    "updated_at": null
+  },
+  {
+    "name": "123",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 16,
+    "created_at": "2026-04-07 21:57:12",
+    "updated_at": null
+  },
+  {
+    "name": "Leojingxuan1",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 17,
+    "created_at": "2026-04-07 22:52:23",
+    "updated_at": null
+  },
+  {
+    "name": "ccc",
+    "resume_text": "",
+    "profile_json": "{\"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 18,
+    "created_at": "2026-04-07 22:53:41",
+    "updated_at": null
+  },
+  {
+    "name": "ddd",
+    "resume_text": "个⼈简历\n基本信息\n姓名：陈浩\u0001 \u0001|\u0001\u0001性别：男\u0001 \u0001|\u0001\u0001年龄：2 5岁\n联系电话：1 39XXXX7890\u0001\u0001|\u0001\u0001电⼦邮箱： chenhao@email.com\n求职意向：软件⼯程师\u0001 \u0001|\u0001\u0001期望薪资：8 000-12000元/⽉\u0001\u0001|\u0001\u0001期望城市：成都\n教育背景\n2020.09\u0001-\u00012024.06\u0001\u0001成都信息⼯程⼤学\u0001 \u0001计算机科学与技术专业\u0001 \u0001本科\u0001 \u0001GPA：3.7/4.0（专业前1 0%）\n核⼼课程：J ava编程、P ython开发、数据库原理、计算机⽹络、数据结构与算法、W eb前端开发（均\n为90分以上）\n荣誉奖项：2 021-2022学年国家励志奖学⾦、2 022-2023学年校级优秀学⽣、2 023年省级⼤学⽣计算\n机设计⼤赛⼆等奖\n⼯作/实习经历\n2023.07\u0001-\u00012024.02\u0001\u0001成都X X信息技术有限公司\u0001 \u0001软件开发实习⽣\n1.\u0001参与公司后台管理系统开发，使⽤J ava语⾔结合S pringBoot框架，完成⽤⼾登录、权限分配等核⼼\n模块的编码与调试，提升系统响应速度约1 5%；\n2.\u0001协助开发团队进⾏数据库优化，编写S QL查询语句，优化数据查询效率，减少冗余数据，降低系统\n卡顿概率；\n3.\u0001参与前端⻚⾯调试与修改，使⽤H TML、CSS、JavaScript配合V ue框架，修复⻚⾯兼容性问题1 0余\n处，提升⽤⼾体验；\n4.\u0001配合测试⼈员完成系统测试，记录并修改b ug30余个，参与撰写技术⽂档，保障项⽬按时上线。\n2022.09\u0001-\u00012023.06\u0001\u0001学校计算机协会\u0001 \u0001技术部部⻓\n1.\u0001统筹协会技术培训⼯作，制定P ython、Java基础培训计划，组织开展培训活动1 2场，覆盖学⽣2 00\n余⼈，提升学员编程基础能⼒；\n2.\u0001带领团队完成校园成绩查询⼩程序开发，负责后端逻辑编写与数据库搭建，⼩程序上线后累计使⽤\n⼈数达1 500+；\n3.\u0001负责维护校园计算机实验室设备，排查软件、硬件故障，解决师⽣电脑使⽤问题8 0余起，保障实验\n室正常运⾏；\n4.\u0001组织校园编程竞赛，负责竞赛题⽬设计、技术⽀持与评审⼯作，提升校园编程氛围。\n专业技能（注：⽂档部分内容可能由\u0001 AI\u0001⽣成）1.\u0001编程技能：熟练掌握J ava、Python编程语⾔，熟悉S pringBoot、MyBatis框架，能独⽴完成简单项\n⽬的开发与调试；\n2.\u0001前端技能：掌握H TML、CSS、JavaScript基础，熟悉V ue框架，能完成基础前端⻚⾯开发与调试；\n3.\u0001数据库技能：熟悉M ySQL数据库，能熟练编写S QL语句，掌握数据库设计与优化基础⽅法；\n4.\u0001其他能⼒：具备较强的逻辑思维能⼒和问题解决能⼒，熟悉G it版本控制⼯具，善于团队协作，能快\n速学习新技术，适应项⽬需求。\n项⽬经验\n2023.03\u0001-\u00012023.06\u0001\u0001校园图书管理系统\u0001 \u0001项⽬负责⼈\n1.\u0001负责项⽬需求分析与架构设计，制定项⽬开发计划，协调5 ⼈开发团队完成项⽬开发；\n2.\u0001负责后端核⼼模块开发，实现图书查询、借阅、归还、库存管理等功能，确保系统稳定运⾏；\n3.\u0001对接校园图书馆，收集需求反馈，优化系统功能，最终完成项⽬交付，获得学校相关部⻔认可。\n⾃我评价\n具备扎实的计算机专业知识，掌握J ava、Python等核⼼编程技能，拥有丰富的项⽬开发和实习经验，\n熟悉软件开发流程。逻辑思维清晰，善于分析和解决技术问题，具备较强的学习能⼒和执⾏⼒，能快\n速掌握新技术并应⽤于实际项⽬。性格沉稳严谨，善于团队协作，对待⼯作认真负责，注重代码规范\n和项⽬质量，愿意持续深耕技术领域，为公司的技术发展贡献⼒量。",
+    "profile_json": "{\"age\": \"\", \"major\": \"计算机科学与技术\", \"skills\": [], \"language\": \"英语（未提及具体证书）\", \"education\": \"\", \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [{\"name\": \"成都XX信息技术有限公司 软件开发实习生\", \"role\": \"\", \"description\": \"\", \"technologies\": []}], \"competitions\": []}, \"internships\": [\"成都XX信息技术有限公司 软件开发实习生\"], \"certificates\": [], \"stress_score\": 4, \"manual_basics\": {\"grade\": \"\", \"gender\": \"\", \"school\": \"\", \"intended_city\": \"\"}, \"overall_score\": 90, \"selected_path\": \"科研人员\", \"stress_reason\": \"在实习中承担多项任务，如系统优化、调试和文档撰写，表现出良好的抗压能力。\", \"learning_score\": 5, \"overall_reason\": \"专业基础扎实，拥有丰富的项目与实习经验，技能全面，具备较强的学习能力和团队协作能力。\", \"learning_reason\": \"能快速学习新技术并应用于实际项目。\", \"work_experience\": \"学校计算机协会 技术部部长\", \"confidence_score\": 95, \"development_plan\": \"**Plan**  \\n- **职业目标**：成功考取硕士研究生并进入科研机构从事科研工作  \\n- **学术/技能目标**：提升科研能力，掌握文献阅读、数据分析与论文撰写技巧；完成1项校级或省级科研项目；发表1篇核心期刊论文（或会议论文）  \\n- **平台/资源**：加入高校科研团队、参与学术会议、联系导师进行课题研究、利用学校实验室资源  \\n\\n**Do**  \\n- **具体行动1**：每周阅读3篇中英文科研论文，记录关键内容并撰写摘要  \\n- **具体行动2**：报名参加学校组织的“大学生创新创业训练计划”，申报并完成1项科研项目  \\n- **具体行动3**：每两周与导师沟通一次，汇报科研进展并获取反馈  \\n- **具体行动4**：准备考研复习计划，重点加强数学和专业课学习，同时关注科研方向相关课程  \\n- **具体行动5**：参加1-2场学术会议或线上讲座，拓展学术视野并建立学术人脉  \\n\\n**Check**  \\n- **评估周期**：每月进行一次阶段性复盘，每季度进行一次全面评估  \\n- **评估指标**：  \\n  - 论文阅读量及摘要质量  \\n  - 科研项目进度是否按计划推进  \\n  - 导师反馈意见与建议  \\n  - 考研复习进度与模拟测试成绩  \\n- **偏差识别**：  \\n  - 若科研项目进展缓慢，分析是否因时间管理不当或资料不足  \\n  - 若论文阅读效率低，考虑调整阅读方法或增加时间投入  \\n  - 若考研复习效果不理想，需重新规划学习节奏或寻求辅导支持  \\n\\n**Act**  \\n- **备选方案**：  \\n  - 若科研项目未按期完成，可申请延期或调整研究方向  \\n  - 若考研目标院校竞争激烈，可考虑选择更匹配的院校或调整报考专业  \\n  - 若科研成果不达预期，可转向发表会议论文或参与横向课题  \\n- **资源补充**：  \\n  - 遇到科研瓶颈时，主动联系导师或学长学姐获取指导  \\n  - 参加学校或学院组织的科研培训、论文写作工作坊  \\n  - 利用图书馆数据库和在线学术平台（如CNKI、Google Scholar、ResearchGate）获取更多资源  \\n  - 若考研压力过大，可寻求心理咨询或加入学习小组共同备考\", \"innovation_score\": 5, \"confidence_reason\": \"简历内容详实，技能描述清晰，项目经历丰富，展现出较强的专业性和自信。\", \"innovation_reason\": \"参与校园成绩查询小程序开发，担任项目负责人并完成图书管理系统项目。\", \"self_introduction\": \"\", \"other_requirements\": \"\", \"communication_score\": 5, \"industry_background\": \"\", \"communication_reason\": \"担任技术部部长，组织培训和竞赛，具备较强的团队协作与沟通能力。\"}",
+    "id": 19,
+    "created_at": "2026-04-07 22:56:09",
+    "updated_at": "2026-04-07 23:02:00"
+  },
+  {
+    "name": "test2",
+    "resume_text": "",
+    "profile_json": "{\"age\": \"18\", \"major\": \"\", \"skills\": [], \"language\": \"\", \"education\": \"\", \"interests\": [\"日语翻译\"], \"strengths\": [\"C++\"], \"experiences\": {\"papers\": [], \"projects\": [], \"internships\": [], \"competitions\": []}, \"internships\": [], \"certificates\": [], \"stress_score\": 0, \"manual_basics\": {\"grade\": \"大一\", \"gender\": \"男\", \"school\": \"杭州电子科技大学\", \"intended_city\": \"杭州\"}, \"overall_score\": 0, \"learning_score\": 0, \"overall_reason\": \"\", \"work_experience\": \"\", \"confidence_score\": 0, \"innovation_score\": 0, \"confidence_reason\": \"\", \"self_introduction\": \"\", \"other_requirements\": \"\", \"communication_score\": 0, \"industry_background\": \"\"}",
+    "id": 20,
+    "created_at": "2026-04-08 21:14:03",
+    "updated_at": "2026-04-08 21:37:47"
+  }
+]
